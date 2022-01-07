@@ -1,3 +1,9 @@
+/*---------------------------------|
+usr:LiuJiahuan
+Description:String_buffer.c
+Version:beta-0.0.0
+Time:2022-1-8 21:00
+----------------------------------*/
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
