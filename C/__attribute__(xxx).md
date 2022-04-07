@@ -17,3 +17,5 @@ aligned	packed	transparent_union	unused	deprecated	may_alias
 C语言__attribute__的使用
 
 https://blog.csdn.net/qlexcel/article/details/92656797
+## packed的安全性问题
+https://stackoverflow.com/questions/8568432/is-gccs-attribute-packed-pragma-pack-unsafe
