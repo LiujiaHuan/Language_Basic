@@ -14,5 +14,5 @@ lab网址https://www.mysqltutorial.org/tryit/query/mysql-group_concat
 ## 0x02  information_schema库详解
 https://zhuanlan.zhihu.com/p/88342863
 
-## 0x04 where字句
+## 0x03 where字句
 https://www.mysqltutorial.org/mysql-where/
